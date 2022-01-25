@@ -1,4 +1,4 @@
-# PAA2021
+# PAA-BPP-Branch&Bound
 
 Use the command 'make' to compile the program
 
